@@ -1,0 +1,25 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+body {
+    font-family: "roboto";
+    font-weight: 300;
+}
+
+.color-formulario {
+    color: white;
+    
+}
+footer {
+    color: #707070;
+}
+.card-text {
+    color: #707070;
+    font-weight: 300;
+}
+.list-inline-item {
+    color: #707070;
+}
